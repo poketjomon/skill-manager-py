@@ -1,0 +1,21 @@
+# Skill Manager - Python Dependencies
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version: 3.7+
+# Required modules (all built-in):
+# - json: for JSON parsing and serialization
+# - sys: for system operations
+# - os: for operating system operations
+# - subprocess: for executing external commands (svn, git)
+# - urllib: for downloading files from URLs
+# - re: for regular expressions
+# - shutil: for file and directory operations
+# - pathlib: for path operations
+# - asyncio: for asynchronous operations
+# - typing: for type hints
+
+# Optional: For development and testing
+# pytest>=7.0  # Testing framework (optional)
+# black>=22.0  # Code formatter (optional)
+# pylint>=2.0  # Code linter (optional)
