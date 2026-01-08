@@ -1,4 +1,4 @@
-# Skill Manager | 技能管理器
+# Skill Manager | 技能管理器 （Python）
 
 ![Skill Manager Banner](./data/banner.jpeg)
 
@@ -134,9 +134,9 @@ Results sorted by relevance and GitHub stars
 ## Communication  
 
 - [github:buzhangsan](https://github.com/buzhangsan)
-- [x:buzhangsan](https://x.com/MolingDream)
+<!-- - [x:buzhangsan](https://x.com/MolingDream) -->
 
-<img src="./data/group.png" width="50%">
+<!-- <img src="./data/group.png" width="50%"> -->
 
 ## 🌟 Project Highlights
 
@@ -159,7 +159,7 @@ MIT License
 ---
 
 **Version**: 2.0.0
-**Created**: 2025-12-26 (Node.js)
+**Created**: 2025-12-26 (Node.js)-Buzhangsan
 **Updated**: 2026-01-08 (Python)
-**Author**: Claude Skill Manager Team
+**Author**: Poketjomon
 
