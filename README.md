@@ -95,7 +95,7 @@ skill-manager/
 │   └── all_skills_with_cn.json  # 31,767 skills (30.33 MB)
 └── docs/                        # Documentation
     ├── INSTALLATION.md          # Installation guide
-    ├── PROJECT_SUMMARY.md       # Project summary (Node.js & Python)
+    ├── PROJECT_SUMMARY.md       # Project summary (Python)
     └── README_CN.md             # Chinese documentation (Python version)
 ```
 
